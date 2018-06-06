@@ -1,0 +1,9 @@
+
+[127.0.0.1] [X]: ::yell wadduo 
+[127.0.0.1] [Xe]: ::rules 
+[127.0.0.1] [Xe]: ::commands 
+[127.0.0.1] [Xe]: ::rule 
+[127.0.0.1] [Xe]: ::command 
+[127.0.0.1] [6rangers6]: ::commands 
+[127.0.0.1] [6rangers6]: ::rules 
+[127.0.0.1] [6rangers6]: ::rules 
