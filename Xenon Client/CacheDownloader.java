@@ -26,7 +26,7 @@ public class CacheDownloader {
 	*This is where the Cache downloader coding starts
 	**/
 	private final int VERSION = 1;
-	private String cacheLink = "https://dl.dropboxusercontent.com/s/5x23mpqkzdi89mo/XENON.zip";
+	private String cacheLink = "https://nofile.io/f/Gk2PU0PZ9ev/XENON.zip";
 	/**
 	*Cache Downloader Ends
 	**/
